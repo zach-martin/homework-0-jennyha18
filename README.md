@@ -46,7 +46,7 @@ Navigate to the settings page for your **Purdue-CS193/homework-0-\<Your Github U
 ## Rubric
 | Task                                  | Points |
 |---------------------------------------|--------|
-| Created GitHub account and gave to TA | 3      |
+| Created GitHub account and submitted username | 3      |
 | Created website through GitHub pages  | 2      |
 | Correctly added name to the heading   | 1      |
 | List exists   | 1      |
