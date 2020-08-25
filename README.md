@@ -11,7 +11,7 @@ This homework will be due 9/4.
 When you have a GitHub account, submitted your GitHub username, and have a website with all the info required. The info is described later in the assignment. We will be using the same link you use to view your website to grade it.
 
 ## Heads up!
-You should only continue from here if everything went smoothly from the instructions in the PDF on BlackBoard.  If things did not go smoothly then revisit those instructions and finish up all the steps it lists first!
+You should only continue from here if everything went smoothly from the instructions in the PDF on Brightspace.  If things did not go smoothly then revisit those instructions and finish up all the steps it lists first!
 
 ## Step 4 - Create Your Own Website!
 The repository that was just created for you is already set up with a simple file that displays a basic website. The website content is found in the index.md file. Throughout this homework you will be editing this file to create your own content for this website.
